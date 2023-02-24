@@ -1,11 +1,11 @@
 ---
 - título: Amor de Salvação
-    autor: Camilo Castelo Branco
-    data: 1864
-    tipo: romance, ficção
-    páginas: 252
-    editora: em casa da viuva Moré
-    idioma: português
+- autor: Camilo Castelo Branco
+- data: 1864
+- tipo: romance, ficção
+- páginas: 252
+- editora: em casa da viuva Moré
+- idioma: português
 ---
 ## Camilo Castelo Branco
 # Amor de Salvação
