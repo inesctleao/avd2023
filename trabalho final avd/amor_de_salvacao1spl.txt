@@ -82,7 +82,7 @@ Volume que descrevesse um amor de bem-aventuranças terrenas seria uma fábula.
 
      
      
-     I
+# Capítulo I
      
      Estava claro o céu, tépido o ar, e as bouças e montes floridos, O mês era de Dezembro, de 1863, em véspera de Natal.
      A gente das cidades pergunta-me em que pais do mundo florescem, em Dezembro, bouças e montados.
@@ -247,7 +247,7 @@ Transformaram-se num os dois asilos, já abundantes de esmolas de outras senhora
 
      
      
-     II
+# Capítulo II
      
      Sinceramente, não sei corrigir-me do vicio das divagações
 Há quem defenda e demonstre que o romance filosófico deve ser assim alinhavado a exemplo de Balzac, Sainte-Beuve, Stäel, etc
@@ -344,7 +344,7 @@ Que enorme ceia comemos e que estrondoso ruído fizeram os meninos!
 
      
      
-     III
+# Capítulo III
      
      No dia seguinte ao domingo de festa que eu passei com Afonso reaparecera o sol magnífico da véspera.
      Afonso de Teive mandou aparelhar um ordinário garrano, o qual, no dizer do dono, era um luxo nas suas cavalariças, visto que Afonso raras vezes saia para além dos muros da sua quinta
@@ -400,7 +400,7 @@ Ao rasgar da manhã, abrimos as portadas, e Afonso falava ainda.
 
      
      
-     IV
+# Capítulo IV
      
      No principio deste ano de 1864, saí de Ruivães, onde, por espaço de oito dias, me escondi à minha estrela funesta - a vigilantísima desgraça, que eu ia esquecendo
 No termo deste prazo, estranhei o sossego das minhas noites, faltou-me a mão do Demónio que me arregaçava com dedos de fojo as pálpebras quebrantadas de sono, e fui à procura dele.
@@ -437,7 +437,7 @@ Há dias que me disseste: «Sabes tu o que é ter um Deus, que nos escuta, que n
 
      
      
-     V
+# Capítulo V
      
      Afonso de Teive estudava, há hoje vinte anos, em Braga, os elementos preparatórios para o curso universitário, quando viu Teodora, conhecida pela morgadinha da Fervença
 Era ela então menina de catorze anos
@@ -536,7 +536,7 @@ Os prognósticos da opinião pública erraram, como se há-de ver num futuro liv
 
      
      
-     VI
+# Capítulo VI
      
      O escândalo, que felizmente abortou à portaria do convento, pôs de sobrerrolda os pais de família que tinham meninas a educar nas Ursulinas e deu às insones freiras um sexto sentido de observação
 Dentro do mosteiro reinava a opinião de que Teodora tinha bastante capacidade para tomar criada, conforme o gorado sistema de Libana
@@ -624,7 +624,7 @@ Lá vão as coroas no bulcão do vento; lá vão esgalhadas as frondes do chorã
 
      
      
-     VII
+# Capítulo VII
      
      Beleza absoluta, de telhas abaixo, há uma sé, que é a da mulher formosa; e, na variada manifestação de beleza em diversidade de tipos, há uma superior formosura, que constitui o belo universal, o belo que prende e leva todos os olhos
 A mulher assim dotada tanto impressiona o espírito educado na visão e admiração das maravilhas da natureza e arte como o espírito desculto de toda a compostura e discernimento
@@ -733,7 +733,7 @@ O que eu queria era ser tão rico como Sansão.
 
      
      
-     VIII
+# Capítulo VIII
      
      As filhas do desembargador Figueiroa rodeavam o primo Afonso de agrados, de gozos familiares e recreios, tendendo tudo a diverti-lo de sua taciturna melancolia
 A senhora de Ruivães, escrevendo a seu irmão, pedia-lhe que se descuidasse em matéria de estudos e tomasse muito a peito a distracção do filho, qualquer que fosse o gasto que ela houvesse de desembolsar
@@ -866,7 +866,7 @@ Viva, minha querida mãe, o que eu mais necessito é da sua vida!
 
      
      
-     IX
+# Capítulo IX
      
      Verei se posso repetir, sem inexactidão sensível, o que Afonso de Teive me contou, com seguimento aos sucessos descritos.
      «Nenhum rapaz dos meus anos», dizia ele, «exerceria tão dolorosa violência sobre o seu espirito
@@ -951,7 +951,7 @@ Deixa-me tomar fôlego, recordando minha mulher e meus filhinhos.»
 
      
      
-     X
+# Capítulo X
      
      Afonso, passados dois minutos, continuou, demudado já o semblante da jovialidade com que principiara:
      «Teodora reconheceu-me
@@ -1158,7 +1158,7 @@ Sei que terminei a leitura da carta já quando os olhos mal discriminavam as let
 
      
      
-     XI
+# Capítulo XI
      
      Sorriu Afonso do meu melindroso sentimentalismo, retorceu distraidamente os longos bigodes por sobre a barba listrada de fascículos brancos, afogueou o seu cachimbo de barro negro e continuou:
      «Eu é que verdadeiramente chorava, quando acabei de ler esse papel
@@ -1366,7 +1366,7 @@ Eu não a tinha visto ainda, quando Mafalda, apontando-a com o braço trémulo, 
 
      
      
-     XII
+# Capítulo XII
      
      Cerravam-se cada dia mais espessas as trevas em volta do perplexo ânimo de Afonso de Teive
 A obsessão de Teodora não lhe dava tréguas
@@ -1418,7 +1418,7 @@ Porém, quando Afonso lhe estendeu a mão, e disse: «Adeus!», ela arrancou do 
 
      
      
-     XIII
+# Capítulo XIII
      
      Foi Afonso de Teive para Lisboa
 Como ia desgostoso e intratável, rejeitou a aposentadoria em casa do tio desembargador
@@ -1585,7 +1585,7 @@ Aprendam os historiadores.
 
      
      
-     XIV
+# Capítulo XIV
      
      No mesmo dia, um deputado chegado do Minho entregou a Afonso uma carta de sua mãe, incluindo outra de Mafalda
 A senhora de Ruivães felicitava o filho por saber que ele procurava os passatempos da capital, admoestando-o a que procedesse honradamente no gozo dos prazeres, para que eles se não derrancassem em flagelos da consciência e infâmia
@@ -1813,7 +1813,7 @@ Também orei pelo primo Afonso..60
 
      
      
-     XV
+# Capítulo XV
      
      Afonso de Teive contava os dias, e, no último dia, a hora é instantes em que devia receber carta de Teodora
 Esperou uma semana em alvoroço, e já ao décimo dia a malograda esperança o atormentava
@@ -2031,7 +2031,7 @@ Falámos de nossas mães, e com tantas carícias de expressão saudosa, que term
 
      
      
-     XVI
+# Capítulo XVI
      
      Volvido um mês sobre os sucessos descritos, Afonso de Teive e Palmira – que nunca mais se chamou Teodora - viviam num palacete ao Campo Grande, por ser entrada a sazão estiva.
      O interior esplêndido da casa sobreexcedia o exterior majestoso
@@ -2175,7 +2175,7 @@ Aqui te lança sua derradeira bênção a tua boa mãe, Eulália.
 
      
      
-     XVII
+# Capítulo XVII
      
      Encerrou-se Afonso por espaço de oito dias, inconsolável aos afagos de Palmira.
      Os amigos, seus sécios de vida viciosa e soberba de sua culpa, e contubernais logrativos das suas dissipações, enfureciam-lhe o tormento do remorso
@@ -2389,7 +2389,7 @@ Logo voltarei a saber de ti.
 
      
      
-     XVIII
+# Capítulo XVIII
      
      Voltou Palmira à sala, e, momentos depois, reapareceu no quarto de Afonso, perguntando se D
 José de Noronha e D
@@ -2527,7 +2527,7 @@ Minutos depois, abandonei a minha casa, levando comigo o criado que me vira nasc
 
      
      
-     XIX
+# Capítulo XIX
      
      «No dia seguinte, mandei de Sintra o criado a casa, informar-se dos sucessos decorridos..
 Querenas tu..
@@ -2654,7 +2654,7 @@ Que cuidas tu que eu ia procurar em França?»
 
      
      
-     XX
+# Capítulo XX
      
      No oitavo dia de residência em Paris, Afonso de Teive não sabia que fazer da sua pesada inércia
 Fechado no quarto de um hotel, ouvia os estrondos da Babilónia e suspirava pelos silêncios da sua aldeia
@@ -2783,7 +2783,7 @@ Três canas recebi dele em oito meses, e que frias expressões! Quando eu o cons
 
      
      
-     XXI
+# Capítulo XXI
      
      Decorridos seis meses, Fernão de Teive, perigosamente enfermo e desenganado, dialogava assim com sua filha, ajoelhada sobre o estrado do leito, com a face inclinada aos lábios requeimados dele:
      - Bem to disse eu, menina
@@ -2863,7 +2863,7 @@ Fez-lhe o pai um gesto de silencio com os olhos.
      
      
      
-     XXII
+# Capítulo XXII
      
      Eram atrozmente verdadeiras as informações comunicadas pelo desembargador Figueiroa sobre a desfortuna de Afonso de Teive em Paris.
      Os quinze mil cruzados, produto suposto da quinta de Ruivães, engoliu-os a voragem do jogo de fundos, à qual o alucinado moço se atirou às cegas, contando com a vicissitude favorável, por ter sido infeliz nas outras.
@@ -2967,7 +2967,7 @@ Eu acreditei, porque tinha visto o mundo, e não há nada que não acredite.
 
      
      
-     XXIII
+# Capítulo XXIII
      
      No escritório comercial onde o meu amigo trabalhava chegou, ao fim da tarde do dia 15 de Julho de 1853, um empregado da Embaixada indagando a residência do português Afonso de Teive.
      Saiu com o esclarecimento em demanda de outro português, que se apresentara ao ministro, com importantes recomendações de Lisboa

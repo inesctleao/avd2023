@@ -114,7 +114,7 @@ Todos os que eu vi morrer assim foram.
      
 
      
-    Capítulo I
+# Capítulo I
     
     Orfandade
     
@@ -193,7 +193,7 @@ Se ele se sentisse já infeliz, então que álgidas negridões de Inverno, que d
      
 
      
-    Capítulo II
+# Capítulo II
     
     Primeiro amor
     
@@ -366,7 +366,7 @@ Eu escrevia o folhetim duma gazeta à luz do candeeiro; e Carlos Pereira via tod
      
 
      
-    Capítulo III
+# Capítulo III
     
     Primeiro golpe
     
@@ -649,7 +649,7 @@ Se eu lhe perguntava que tinha, respondia-me:
      
 
      
-    Capítulo IV
+# Capítulo IV
     
     Segundo amor
     
@@ -1097,7 +1097,7 @@ Virgínia ergue-se de golpe e apertou a mão de Carlos, que se inclinou a beijar
      
 
      
-    Capítulo V
+# Capítulo V
     
     Segundo golpe
     
@@ -1262,7 +1262,7 @@ Tais eram as lágrimas do moço que depusera o beijo virginal de seus lábios, e
      
 
      
-    Capítulo VI
+# Capítulo VI
     
     Terceiro amor
     
@@ -1518,7 +1518,7 @@ Imaginemos que alumiar-se o ar foi uma traição à minha creança para que eu m
      
 
      
-    Capítulo VII
+# Capítulo VII
     
     Terceiro golpe
     
@@ -1644,7 +1644,7 @@ Já me era consolativo ouvi-lo dizer em nove noites sucessivas de delírio:
      
 
      
-    Capítulo VIII
+# Capítulo VIII
     
     Quarto amor
     
@@ -2025,7 +2025,7 @@ Antes disso, não; que lho aconselha o seu avelhado companheiro dos pinhais e co
      
 
      
-    Capítulo IX
+# Capítulo IX
     
     Quarto golpe
     
@@ -2155,7 +2155,7 @@ Não faltará quem a saiba, independentemente da indicação.
      
 
      
-    Capítulo X
+# Capítulo X
     
     Último amor
     
@@ -2689,7 +2689,7 @@ Escreva sempre à sua amiga Filomena.
      
 
      
-    Capítulo XI
+# Capítulo XI
     
     Último golpe
     
@@ -3354,7 +3354,7 @@ Quando Eduardo tiver dezasseis anos, dir-lhe-ei: «Este manuscrito ajunta-o à t
      
 
      
-    Epílogo
+Epílogo
     
      Cassilda Arcourt
      

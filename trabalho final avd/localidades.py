@@ -1,28 +1,30 @@
 import spacy
-import sys
+import os
 import csv
 
-path = sys.argv[1]
+with open('a_mulher_fatal1spl.txt', 'r', encoding='UTF-8') as file:
+    text = file.read()
 
-f = open(path, "r", encoding="utf8")
-
-text = f.read()
-
-nlp = spacy.load("pt_core_news_sm")
+nlp = spacy.load('pt_core_news_sm')
 doc = nlp(text)
-dicionario = dict()
 
-for entity in doc.ents:
-    if entity.label_ == 'PER' or entity.label_ == 'LOC':
-        if entity.text in dicionario.keys():
-            dicionario[entity.text] += 1
-        else:
-            dicionario[entity.text] = 1
-print(dicionario)
+locations = []
+
+for ent in doc.ents:
+    if ent.label_ == "LOC":
+        locations.append(ent.text)
+
+from collections import Counter
+
+locations_counts = Counter(locations)
+
+top30_locations = locations_counts.most_common(30)
+
+print(top30_locations)
 
 with open('LOCALIDADESa_mulher_fatal.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(["localidades" , "contagem"])
-    for key,value in dicionario.items():
-        writer.writerow([key , value])
-        
+    writer.writerow(['Localidade', 'Contagem'])  # Adiciona o cabeçalho das colunas
+
+    for location, count in top30_locations:
+        writer.writerow([location, count])
