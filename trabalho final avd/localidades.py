@@ -20,7 +20,7 @@ for entity in doc.ents:
             dicionario[entity.text] = 1
 print(dicionario)
 
-with open('ondeestaafelicidade.csv', 'w', newline='') as file:
+with open('LOCALIDADESa_mulher_fatal.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(["localidades" , "contagem"])
     for key,value in dicionario.items():
