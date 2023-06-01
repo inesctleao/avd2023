@@ -551,7 +551,7 @@ Aí vai, pois, a apologia do clero, no dia 29 de Março de 1809:
 “Não deve ficar em silêncio o valor de alguns fiéis e intrépidos vassalos, que vendo o inimigo já dentro da cidade, corajosos se arrastam e lhe fazem o mais vivo fogo: os valorosos clérigos que guarneciam o Paço Episcopal, aprontão a sua artilheria, e marchão corri uma das suas peças para o largo de Santo Ildefonso, comandada pelo 2º tenente Padre Francisco Correia, sobrinho do comandante, ficando com outra postada ao Arco da Senhora da Vandorna; aos primeiros se juntou toda a tropa que vinha em retirada das Baterias, e aqui esperão o inimigo; apenas este chega lhe fazem um aturado fogo de artilharia e mosquetaria, retirando-se conforme o poderoso inimigo ia ganhando terreno, até que este consegue avizinhar-se do Arco da Vandoma, aqui se renovou o fogo da nossa parte, até que numerosa cavalaria inimiga conseguiu romper o nosso fogo; eram os comandantes dos valorosos Eclesiásticos, e estudantes nestas acções o Beneficiado Manuel João da Silva, e o Padre André António Correia, aquele de Infantaria e este de artilharia, que assaz mostrarão o seu valor e intrepidez em presença do Reverendo Deão Coronel do dito Corpo, que comandava em chefe este sítio, o qual demoradamente a tiro de pistola matou um soberbo Dragão Francês; fazendo o mesmo o comandante de Infantaria que matou na Rua de Santo António do Penedo um oficial Francês de Cavalaria, que animava os seus a romperem, &c.” Estes padres, dias depois, levantavam com as mãos tintas de sangue a hóstia consagrada, o corpo imaculado do pacientíssimo cordeiro! O cristianismo, se não tivesse um amparo providencial, tinha caído mil vezes no ridículo dos seus sacerdotes.
 
 
-
+# Capítulo I
 
 Onde Está a Felicidade?
 
@@ -679,7 +679,7 @@ Quarenta e oito horas depois, Guilherme do Amaral, prodígio de memória, repeti
 
 
 
-II
+# Capítulo II
 
 Não caiu em terra ingrata a semente
 Guilherme do Amaral, como todos os homens sem originalidade, indefinidos na consciência própria, bisonhos da experiência das coisas, que individualiza a índole das pessoas, aceitou as teorias do cavalheiro lisbonense como boas para o uso ordinário, sem contudo saírem da esfera extraordinária.
@@ -921,7 +921,7 @@ E encastoou a luneta no olho direito para medir a profundidade do tabuleiro e a 
 
 
 
-III
+# Capítulo III
 
 Mesquita já tardava à ansiedade de Margarida
 As informações obtidas não lhe pacificaram a caprichosa curiosidade
@@ -1051,7 +1051,7 @@ em relação a elas, e em relação ao movimento do planeta.
 
 
 
-IV
+# Capítulo IV
 
 Os dois últimos capítulos, que já lá vão a grande aprazimento do leitor, e, mais ainda, da leitora, são uma excrescência neste romance: dispensavam-se bem, se eu não quisesse historiar o miserável processo de que resultou a magnífica e estrondosa nomeada de Guilherme do Amaral.
 Quão diversas de Lisboa as coisas lhe corriam aqui! Nem de rastos o expulso pelo escárnio da capital pagará as obrigações que deve àquele bom homem, que lhe ensinou um novo sistema de vida.
@@ -1141,7 +1141,7 @@ Foi por isso que Amaral resolveu uma viagem dalguns anos.
 
 
 
-V
+# Capítulo V
 
 Era uma noite, vinte e oito de junho de 1845, véspera do milagroso apóstolo S
 Pedro.
@@ -1295,7 +1295,7 @@ Enquanto Augusta chorava inconsolável em casa da vizinha, a previdente peixeira
 
 
 
-VI
+# Capítulo VI
 
 Dois dias depois, Guilherme do Amaral foi à Rua dos Arménios, com a intenção de estudar de dia a suposta miséria daquela casa, que não pudera ver à luz mortiça da candeia, e mais ainda para cumprir a promessa que fizera de socorrer mais algumas necessidades da órfã
 Não há intenções mais puras!
@@ -1481,7 +1481,7 @@ O capítulo seguinte pode lê-lo toda a gente.
 
 
 
-VII
+# Capítulo VII
 
 Tinham decorrido quatro horas de aturada cogitação na vida de Guilherme do Amaral, quando ele, juiz suficiente de si próprio, decidiu que amava a pobre costureira de suspensórios
 Estas quatro horas foram as decorridas desde que ele se despediu da Rua dos Arménios, onde o deixámos no anterior capítulo, até que se vestiu para assistir a um jantar de despedida, que lhe era dado pelo marido de D
@@ -1612,7 +1612,7 @@ Ela aí vem...
 
 
 
-VIII
+# Capítulo VIII
 
 Pois se Guilherme do Amaral, segundo a sua crível confissão, ria interiormente, quando reconsiderava a viagem, que as saudades dos generosos portuenses não consentiam, como se explica esta mudança? Há por ventura um motivo sério que a explique?
 Há, não pode deixar de haver
@@ -1735,7 +1735,7 @@ Paulo, que encontrei, e embuti hoje como pude no meu folhetim, em que falo de Ca
 
 
 
-IX
+# Capítulo IX
 
 Desembaraçado do poeta, Guilherme do Amaral foi à Rua dos Arménios
 Augusta, como sempre, estava sozinha
@@ -2135,7 +2135,7 @@ Hú mihi? qualis erat!...
 
 
 
-X
+# Capítulo X
 
 Cedendo a mão ao casto e fervoroso beijo, Augusta sentiu aquecer-lhe o sangue o fogo daqueles lábios
 Não tinha ânimo de retirar a mão, nem Guilherme vontade de largá-la
@@ -2184,7 +2184,7 @@ Se ela mente, como pode ser responsável a vítima! Não basta ao homem ser atra
 
 
 
-XI
+# Capítulo XI
 
 O jornalista era um profeta
 Os antigos videntes fê-los a santidade; a corrupção faz os profetas contemporâneos
@@ -2335,7 +2335,7 @@ Amar com orgulho, ter vaidade do que se ama, é apenas um luxo, mas é um luxo q
 
 
 
-XII
+# Capítulo XII
 
 — Tem tido notícias do seu amigo Amaral? — perguntou D
 Cecília ao jornalista, na praia dos Ingleses, em S
@@ -2565,7 +2565,7 @@ Guilherme, com um beijo, confirmou-lhe a restauração da perdida felicidade.
 
 
 
-XIII
+# Capítulo XIII
 
 Augusta olvidaria de todo o fabricante? Respondendo a todas as perguntas que me fazem, não respondo a esta
 É certo que ela nunca falou em Francisco, e Guilherme meditava tudo o que dizia para não despertar lembranças da Rua dos Arménios.
@@ -2828,7 +2828,7 @@ Voltou contra si a pontaria da arma que devia matar-me
 Não falemos mais nisso...
 
 
-XIV
+# Capítulo XIV
 
 Este episódio alterou a desculposa felicidade de Augusta
 A sua alegria perdeu muito da intimidade espontânea
@@ -2999,7 +2999,7 @@ Vou decifrar o enigma, que me parece indecifrável depois da tua explicação.
 
 
 
-XV
+# Capítulo XV
 
 Augusta passeava no jardim
 O gosto era extravagante em uma noite de Fevereiro, fria 'e ventosa
@@ -3180,7 +3180,7 @@ Prezas-te de conhecer muito do coração; mas hoje adormeceste à sombra dos teu
 
 
 
-XVI
+# Capítulo XVI
 
 Um tio materno de Guilherme do Amaral, rico proprietário da província da Beira e deputado às Cortes Constituintes, emigrara em 1828, e casara em Bruxelas.
 Em 1845, o exilado, que não sentira nunca saudades da pátria, veio a Portugal, de passeio, com a sua filha única,
@@ -3325,7 +3325,7 @@ Cá te espero amanhã.
 
 
 
-XVII
+# Capítulo XVII
 
 As várzeas do Candal branquejavam cobertas de neve
 O frio cortava as carnes
@@ -3484,7 +3484,7 @@ LIX
 O autor conhece vinte e uma variedades.
 
 
-XVIII
+# Capítulo XVIII
 
 Amaral, no dia seguinte, encontrou o jornalista na Batalha.
 Vens muito a tempo — disse o poeta inexorável no epigrama.
@@ -3728,7 +3728,7 @@ Entendes? Guia-te pela minha cabeça...
 
 
 
-XIX
+# Capítulo XIX
 
 O jornalista, durante esta cena, estivera, na: mais tranquila beatitude de espírito, fumando um charuto, encostado ao último frade (de pedra: nada de equívocos anacrónicos) da Rua de Santo António
 Presenceara os gestos, e adivinhara tudo.
@@ -3920,7 +3920,7 @@ Apearam à porta da Águia de Oiro; um subiu, e o outro foi para o teatro.
 
 
 
-XX
+# Capítulo XX
 
 Quarenta e oito horas depois, o jornalista, sinceramente melancólico, ao anoitecer, entrava em casa de Augusta, no Candal.
 — A senhora — disse uma criada — está na cama.
@@ -4196,7 +4196,7 @@ E, quando assim a dor ia reassumir toda a sua energia, bateram à porta de Augus
 
 
 
-XXI
+# Capítulo XXI
 
 Depois que o severo Gregório saíra, deixando as chaves da casa abandonada, o jornalista formara entes de razão, e deduzira de todos que a heroína, superior ao que ele a imaginava, passava do Candal para a Rua dos Arménios.
 Amador da tragédia, e curioso investigador de tudo que pudesse aumentar o seu grosso cabedal de experiência, o poeta, neste caso, não era só observador: entrava de coração no enredo do futuro romance, que devera ser de lavra sua, se o não encarregasse a pessoa menos hábil que ele.
@@ -4382,7 +4382,7 @@ Compra-me a casa?
 
 
 
-XXII
+# Capítulo XXII
 
 O jornalista era uma bela alma
 Mártir da opinião pública, raros homens tenho conhecido que tanto como ele se pagassem do galardão da consciência
@@ -4516,7 +4516,7 @@ Francisco saíra, como disse a Sr.a Ana, e voltara com a cama às duas horas da 
 
 
 
-XXIII
+# Capítulo XXIII
 
 Francisco visitava todas as manhãs a fábrica, e, por consentimento do bom patrão, voltava para a Rua dos Arménios a jantar com sua prima
 O cirurgião vinha diariamente observar o curativo de uma doença incógnita
@@ -4838,7 +4838,7 @@ Esperemos, pois, as eventualidades.
 
 
 
-XXIV
+# Capítulo XXIV
 
 Londres, 12 de Fevereiro de 1847.
 
@@ -4902,7 +4902,7 @@ Guilherme do Amaral.
 
 
 
-XXV
+# Capítulo XXV
 
 O jornalista recebera esta carta no momento em que a Sr.a Ana o vinha chamar de mando de Augusta
 Grande embaraço! Queria não mostrar-lha; mas escasseavam-lhe recursos de fantasia para entretê-la na quimera, que, por fim, seria desmentida, e mais cruel a desilusão
@@ -5155,7 +5155,7 @@ hei-de querer-lhe como se fosse também meu filho...
 
 
 
-XXVI
+# Capítulo XXVI
 
 Ao escurecer de um dia de Agosto de 1847, entrara, na casa da Rua dos Arménios, o médico que, oito meses antes, se despedira, oferecendo o seu préstimo para oito meses depois
 Não faltara à sua palavra, visto que a natureza também não faltara à sua.
@@ -5396,7 +5396,7 @@ Passados cinco anos, acorde, e leia o capítulo seguinte.
 
 
 
-XXVII
+# Capítulo XXVII
 
 Correram, pois, cinco anos
 O jornalista não obtivera directa nem indirectamente informações de Amaral
@@ -5523,7 +5523,7 @@ Joaquina não o entendeu, e o leitor, por mais que esperte o entendimento com o 
 
 
 
-XXVIII
+# Capítulo XXVIII
 
 Em Março de 1851, doze dias depois da cena misteriosa do anterior capítulo — de todos eles o mais ressaibado do tempero romanesco — o jornalista pela terceira vez procurava Guilherme do Amaral, em Lisboa, Rua de S
 Francisco, Hotel de Itália.
@@ -5667,7 +5667,7 @@ mas deixa-me pedir conhaque
 É preciso embriagar a musa para o grande capítulo desta odisseia.
 
 
-XXIX
+# Capítulo XXIX
 
 Electrizado o espírito com as primeiras libações, Guilherme do Amaral continuou:
 — Deves saber, amigo meu, que o meu conhaque é, como a alma de Santo Agostinho, o princípio activo de todas as minhas cogitações
@@ -5799,7 +5799,7 @@ O caso vale tantas como a tua.
 
 
 
-XXX
+# Capítulo XXX
 
 — Pois não passa connosco a noite?
 — Não, senhora baronesa..

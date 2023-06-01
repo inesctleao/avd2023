@@ -3,7 +3,7 @@ import os
 import csv
 from collections import Counter
 
-with open('amor_de_salvacao1spl.txt', 'r', encoding='UTF-8') as file:
+with open('onde_esta_a_felicidade1spl.txt', 'r', encoding='UTF-8') as file:
     text = file.read()
 
 nlp = spacy.load('pt_core_news_sm')
@@ -23,9 +23,10 @@ top20_verbs = verb_counts.most_common(20)
 
 print(top20_verbs)
 
-with open('VERBOSamor_de_salvacao.csv', 'w', newline='') as file:
+with open('VERBOSondeestaafelicidade.csv', 'w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(['Verbo', 'Contagem'])  # Adiciona o cabeçalho das colunas
+    writer.writerow(['Verbo', 'Contagem']) 
 
     for verb, count in top20_verbs:
         writer.writerow([verb, count])
+

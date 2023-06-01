@@ -2,20 +2,22 @@ import spacy
 import csv
 from collections import Counter
 
-# Carregar modelo linguístico em português
 nlp = spacy.load('pt_core_news_sm')
 
-# Abrir o arquivo do livro
-with open('MariaMoises.txt', 'r', encoding='utf-8') as arquivo:
-    texto = arquivo.read()
+with open('o_romance_dum_homem_rico1spl.txt', 'r', encoding='utf-8') as file:
+    text = file.read()
 
-# Processar o texto com o modelo do Spacy
-doc = nlp(texto)
+doc = nlp(text)
 
-# Extrair adjetivos do texto e contar a frequência
-adjetivos = [token.text for token in doc if token.pos_ == 'ADJ']
-frequencia_adjetivos = Counter(adjetivos)
+adjectives = Counter()
 
-# Imprimir a frequência de cada adjetivo
-for adjetivo, frequencia in frequencia_adjetivos.items():
-    print(f'{adjetivo}: {frequencia}')
+for token in doc:
+    if token.pos_ == 'ADJ':  
+        adjectives[token.lemma_] += 1  
+
+top20_adjectives = adjectives.most_common(20)
+
+with open('adjetivos_oromancedumhomemrico.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(['Adjetivo', 'Frequência'])
+    writer.writerows(top20_adjectives)

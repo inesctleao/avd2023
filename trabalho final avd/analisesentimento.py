@@ -5,7 +5,7 @@ nltk.download('vader_lexicon')
 
 sia = SentimentIntensityAnalyzer()
 
-caminho_arquivo = "amor_de_salvacao1spl.txt"
+caminho_arquivo = "onde_esta_a_felicidade1spl.txt"
 
 with open(caminho_arquivo, 'r', encoding='utf-8') as arquivo:
     texto = arquivo.read()

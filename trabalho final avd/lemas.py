@@ -27,9 +27,9 @@ def save_lemmas_to_csv(lemmas, output_file):
         for lemma, freq in top_lemmas:
             writer.writerow([lemma, freq])
 
-input_file = 'a_mulher_fatal1spl.txt'
+input_file = 'o_romance_dum_homem_rico1spl.txt'
 
-output_file = 'TOP50a_mulher_fatal.csv'
+output_file = 'TOP50oromancedumhomemrico.csv'
 
 with open(input_file, 'r') as file:
     text = file.read()
